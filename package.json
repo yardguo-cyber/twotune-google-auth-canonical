@@ -1,0 +1,16 @@
+{
+  "name": "@twotune/google-auth-canonical",
+  "version": "1.0.0",
+  "description": "Canonical TwoTune Google Auth (popup, linking, collision, UID guard). Single source of truth for Web and Collection.",
+  "private": true,
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "files": [
+    "index.mjs",
+    "README.md",
+    "PRODUCTION-DEPENDENCY.md"
+  ]
+}
